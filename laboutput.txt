@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running CheckLab7.py
+===============================================================
+    User login name: tshah33
+    Linux system name: fedora
+    Python executable: /usr/bin/python3
+    Python version: 3124
+    OS Platform: linux
+    Working Directory: /home/tshah33/ops445/lab7
+    Start at: Wed Jul 24 15:22:49 2024
+===============================================================
